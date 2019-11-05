@@ -1,3 +1,7 @@
+Quiz
+
+django+vue
+
 npm install
 npm audit fix --force
 python manage.py runserver =============for backend
